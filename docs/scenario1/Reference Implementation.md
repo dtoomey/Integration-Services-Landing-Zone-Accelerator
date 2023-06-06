@@ -67,7 +67,7 @@ The ARM templates deploy the following resources:
 
   - Creates Private Endpoint into VNet
 
-  - Sets “Allow trusted Microsoft services to bypass this firewall” to
+  - Sets “Allow trusted Microsoft services to bypass this firewall” to
     true
 
 - App Service Plans
